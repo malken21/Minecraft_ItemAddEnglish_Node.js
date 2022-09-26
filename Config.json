@@ -1,5 +1,6 @@
 {
-    "main": "ja_jp.json",
-    "add": "en_us.json",
-    "space": "  "
+    "add": "./en_us.json",
+    "space": "  ",
+    "assets": "/Users/  [User Name]  /AppData/Roaming/.minecraft/assets",
+    "index": "1.19.json"
 }
