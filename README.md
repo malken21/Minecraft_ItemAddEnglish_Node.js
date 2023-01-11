@@ -14,4 +14,4 @@ Config.json の assets の項目の`  [User Name]  `をminecraftを自分のユ�
 <br>
 Config.json の index の項目を 目的のMinecraftのバージョンに変更する(.minecraft/assets/indexes/○○.json)
 <br>
-start.bat
+start.bat を実行
